@@ -1,0 +1,4 @@
+server:
+  port: ${PORT:9111}
+
+mensaje: -- Configuracion Básica del microservicio1 en 9111 --
