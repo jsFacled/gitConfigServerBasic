@@ -1,1 +1,4 @@
+spring:
+  application:
+    name: nombre-micro-cambiado-spring-server
 mensageGlobal: Este es el mensaje global
