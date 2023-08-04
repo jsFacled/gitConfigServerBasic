@@ -1,0 +1,6 @@
+server:
+  port: ${PORT:9001}
+
+mensaje: Configuracion Básica del microservicio Cuenta
+
+#el mensaje es una variable, puede ser cualquier palabra.
