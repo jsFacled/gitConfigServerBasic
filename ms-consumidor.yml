@@ -1,0 +1,4 @@
+server:
+  port: ${PORT:9333}
+
+mensaje: -- Configuracion Básica del microservicio consumidor en 9333 --
